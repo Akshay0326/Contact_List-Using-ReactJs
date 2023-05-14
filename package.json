@@ -1,8 +1,9 @@
 {
+  "homepage":"http://Akshay0326.github.io/Contact_List-Using-ReactJs",
   "name": "my-contact-list-app",
   "version": "0.1.0",
   "private": true,
-  "dependencies": {
+  "dependencies": {git
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
