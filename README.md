@@ -1,14 +1,18 @@
 # Create React Calculator App
 
-This is the Hosting Page [React Contact List App]()
+This is the Hosting Page [React Contact List App](https://akshay0326.github.io/Contact_List-Using-ReactJs/)
 <img src="https://user-images.githubusercontent.com/99132893/227261496-fac61c92-7deb-4c1b-80ba-d1a411db7d1d.jpg"/>
 <img src="https://user-images.githubusercontent.com/99132893/227280054-573ebe5c-83b4-4ad6-ba06-3ca9db5329af.jpg"/>
 <img src="https://user-images.githubusercontent.com/99132893/227278859-cec5e06a-78f9-4d1e-b2b5-71ae3c846c15.jpg"/>
 
-#   Features 
-Fetch and show users from the api  [Json Placeholder](https://jsonplaceholder.typicode.com/users)
+# Features
+
+Fetch and show users from the api [Json Placeholder](https://jsonplaceholder.typicode.com/users)
+
 #### Add a contact, make a POST call to the above url (from where you are fetching) and save the contact in react state. (This will be a dummy request, you won’t be able to add contacts to the server. But the request is valid and will send you some data. Read the guide).
+
 #### Update a contact, make a PUT call to the above url. (Again this is a dummy call).
+
 #### Delete a contact, make a DELETE call to the above url. (Again this is a dummy call).
 
 # Getting Started with Create React App
